@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589544019 source:c:\users\demon\codeblock workspace\uyuyanberberproblemi\main.c
+	<stdio.h>
+	<pthread.h>
+	<semaphore.h>
+
